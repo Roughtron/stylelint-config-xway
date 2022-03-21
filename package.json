@@ -10,11 +10,13 @@
   "license": "ISC",
   "devDependencies": {
     "stylelint": "^14.6.0",
+    "stylelint-config-rational-order": "^0.1.2",
     "stylelint-config-standard": "^25.0.0",
     "stylelint-plugin-stylus": "^0.13.1"
   },
   "peerDependencies": {
     "stylelint": "^14.6.0",
+    "stylelint-config-rational-order": "^0.1.2",
     "stylelint-config-standard": "^25.0.0",
     "stylelint-plugin-stylus": "^0.13.1"
   }
